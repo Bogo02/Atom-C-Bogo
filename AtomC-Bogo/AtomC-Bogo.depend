@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744872543 source:d:\faculta\codeblock\atomc-bogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdbool.h>
+
